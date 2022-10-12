@@ -47,7 +47,7 @@
     "json-rpc-engine": "6.1.0",
     "keccak": "^3.0.1",
     "preact": "^10.5.9",
-    "rxjs": "^6.6.3",
+    "rxjs": "^7.5.6",
     "stream-browserify": "^3.0.0"
   },
   "devDependencies": {
